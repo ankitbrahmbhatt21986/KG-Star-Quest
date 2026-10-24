@@ -4,7 +4,7 @@ A fun learning game for Jr KG and Sr KG children (English, Maths, EVS, Hindi, Rh
 
 ## Run it
 Open `index.html` in any browser, or use GitHub Pages:
-https://ankitbrahmbhatt21986.github.io/KG-Star-Quest/
+https://tinyurl.com/KG-Star-Quest
 
 ## Features
 - Randomised, non-repeating questions per subject and class
